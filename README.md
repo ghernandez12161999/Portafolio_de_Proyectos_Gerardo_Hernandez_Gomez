@@ -1,2 +1,3 @@
 # Portafolio-de-Proyectos-Gerardo-Hernandez-Gomez
-El objetivo de este portafolio de proyectos es mostrar mis habilidades técnicas en ciencia de datos. La mayoría se realizó en el contexto del bootcamp de TripleTen donde el énfasis recae en análisis de ventas y estrategias comericales. Pero también hay personales y más relacionados con mi disciplina de estudios, que es la sociología de la religión.
+El objetivo de este portafolio de proyectos es mostrar mis habilidades en ciencia de datos. La mayoría se realizó en el contexto del bootcamp de TripleTen donde el énfasis recae en el análisis de ventas y estrategias comericales. Pero también hay otros personales y más relacionados con mi disciplina de estudios, que es la sociología de la religión. El objetivo de ello es exponer el rango de mis capacidades e mirada
+plural al momento de manejar diversas situaciones, primando no solamente lo técnico, sino también la interpretación y contextualización de los datos. 
