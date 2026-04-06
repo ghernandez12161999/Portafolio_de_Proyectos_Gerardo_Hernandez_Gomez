@@ -39,7 +39,3 @@ Para el desarrollo de estos proyectos se emplean diversas librerías y herramien
 En conjunto, este portafolio refleja no solo **habilidades técnicas**, sino también la capacidad de:
 
 > 💡 *Traducir datos en insights estratégicos que pueden contribuir a la toma de decisiones en contextos reales.*
-
----
-
-Si quieres, en el siguiente paso puedo ayudarte a añadir badges (tipo shields.io) o una estructura para cada proyecto dentro del repo.
