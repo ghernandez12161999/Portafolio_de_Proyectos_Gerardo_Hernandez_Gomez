@@ -1,8 +1,12 @@
 ## 📊 Portafolio de Proyectos en Ciencia de Datos
 
-El objetivo de este portafolio de proyectos es **mostrar mis habilidades en ciencia de datos** a través de la aplicación práctica de herramientas analíticas y metodológicas en distintos contextos.
+### 👨🏻‍💻 Acerca de mi 
+
+Científico de datos con formación en sociología y especialización en análisis estadístico y modelado de datos. Competente en análisis exploratorio de datos (EDA) y estadística inferencial. Experiencia en el procesamiento, análisis y visualización de datos utilizando Python, SQL, Pandas, Scipy, Seaborn, entre otros, además de aplicar técnicas cuantitativas para identificar patrones, evaluar hipótesis y generar insights accionables. Capacidad para traducir datos complejos en recomendaciones estratégicas que optimizan la toma de decisiones, integrando enfoques de ciencias sociales para comprender el comportamiento de usuarios, mejorar la segmentación y potenciar estrategias de negocio basadas en evidencia.
 
 ### 🚀 Enfoque del portafolio
+
+El objetivo de este portafolio de proyectos es **mostrar mis habilidades en ciencia de datos** a través de la aplicación práctica de herramientas analíticas y metodológicas en distintos contextos.
 
 La mayoría de los proyectos fueron desarrollados en el marco del *bootcamp de TripleTen*, donde el énfasis recae en el **análisis de datos orientado a la toma de decisiones**, particularmente en ámbitos como:
 
