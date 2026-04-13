@@ -1,6 +1,6 @@
 ## 📊 Portafolio de Proyectos en Ciencia de Datos
 
-### 👨🏻‍💻 Acerca de mi 
+### 👨🏻‍💻 Acerca de mí 
 
 Científico de datos con formación en sociología y especialización en análisis estadístico y modelado de datos. Competente en análisis exploratorio de datos (EDA) y estadística inferencial. Experiencia en el procesamiento, análisis y visualización de datos utilizando Python, SQL, Pandas, Scipy, Seaborn, entre otros, además de aplicar técnicas cuantitativas para identificar patrones, evaluar hipótesis y generar insights accionables. Capacidad para traducir datos complejos en recomendaciones estratégicas que optimizan la toma de decisiones, integrando enfoques de ciencias sociales para comprender el comportamiento de usuarios, mejorar la segmentación y potenciar estrategias de negocio basadas en evidencia.
 
