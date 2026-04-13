@@ -43,3 +43,9 @@ Para el desarrollo de estos proyectos se emplean diversas librerías y herramien
 En conjunto, este portafolio refleja no solo **habilidades técnicas**, sino también la capacidad de:
 
 > 💡 *Traducir datos en insights estratégicos que pueden contribuir a la toma de decisiones en contextos reales.*
+
+### 🫱🏻‍🫲🏼 Contacto
+
+📧 gerardo.hernandez12161999@gmail.com
+📲 (+52) 55 6120 2298
+🔗 www.linkedin.com/in/gerardo-hernandez-gomez-data-science 
