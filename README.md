@@ -36,6 +36,7 @@ Para el desarrollo de estos proyectos se emplean diversas librerías y herramien
 * `Seaborn`
 * `Matplotlib`
 * `SciPy`
+* `Scikit-learn`
 * entre otras
 
 ### 🎯 Valor del portafolio
