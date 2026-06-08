@@ -1,35 +1,36 @@
-## 📊 Portafolio de Proyectos en Ciencia de Datos
+## 📊 Data Science Project Portfolio
 
-### 👨🏻‍💻 Acerca de mí 
+### 👨🏻‍💻 About Me
 
-Científico de datos con formación en sociología y especialización en análisis estadístico y modelado de datos. Competente en análisis exploratorio de datos (EDA) y estadística inferencial. Experiencia en el procesamiento, análisis y visualización de datos utilizando Python, SQL, Pandas, Scipy, Seaborn, entre otros, además de aplicar técnicas cuantitativas para identificar patrones, evaluar hipótesis y generar insights accionables. Capacidad para traducir datos complejos en recomendaciones estratégicas que optimizan la toma de decisiones, integrando enfoques de ciencias sociales para comprender el comportamiento de usuarios, mejorar la segmentación y potenciar estrategias de negocio basadas en evidencia.
+Data Scientist with an academic background in Sociology and specialized training in statistical analysis and data modeling. Skilled in exploratory data analysis (EDA), inferential statistics, and machine learning. Experienced in processing, analyzing, and visualizing data using Python, SQL, Pandas, SciPy, Scikit-learn, Seaborn, and related tools. Applies quantitative methods to identify patterns, test hypotheses, and generate actionable insights. Demonstrated ability to translate complex datasets into strategic recommendations that support decision-making, integrating social science perspectives to better understand user behavior, improve segmentation, and drive evidence-based business strategies.
 
-### 🚀 Enfoque del portafolio
+### 🚀 Portfolio Overview
 
-El objetivo de este portafolio de proyectos es **mostrar mis habilidades en ciencia de datos** a través de la aplicación práctica de herramientas analíticas y metodológicas en distintos contextos.
+The purpose of this portfolio is to **showcase my data science skills** through the practical application of analytical tools and methodologies across a variety of real-world scenarios.
 
-La mayoría de los proyectos fueron desarrollados en el marco del *bootcamp de TripleTen*, donde el énfasis recae en el **análisis de datos orientado a la toma de decisiones**, particularmente en ámbitos como:
+Most of the projects were developed as part of the *TripleTen Data Science Bootcamp*, with a strong emphasis on **data-driven decision-making**, particularly in areas such as:
 
-* 📈 Ventas
-* 🧠 Comportamiento del consumidor
-* 💼 Estrategias comerciales
+* 📈 Sales Analytics
+* 🧠 Consumer Behavior
+* 💼 Business Strategy
 
-### 🧩 Proceso analítico
+### 🧩 Analytical Process
 
-A lo largo del portafolio, se abordan distintas etapas del análisis de datos, incluyendo:
+Throughout this portfolio, several stages of the data analysis workflow are covered, including:
 
-* 🧹 Limpieza y preprocesamiento de datos
-* 🔍 Análisis exploratorio (EDA)
-* 📊 Visualización de información
-* 🧠 Formulación de conclusiones accionables basadas en evidencia empírica
+* 🧹 Data Cleaning and Preprocessing
+* 🔍 Exploratory Data Analysis (EDA)
+* 📊 Data Visualization
+* 🤖 Predictive Machine Learning Models
+* 🧠 Development of actionable conclusions based on empirical evidence
 
-Asimismo, se incorporan:
+Additionally, the projects incorporate:
 
-* 📐 Técnicas estadísticas para la validación de hipótesis y la identificación de patrones relevantes
+* 📐 Statistical techniques for hypothesis testing and the identification of meaningful patterns
 
-### 🛠️ Herramientas y tecnologías
+### 🛠️ Tools and Technologies
 
-Para el desarrollo de estos proyectos se emplean diversas librerías y herramientas del ecosistema de Python, tales como:
+The projects make use of a wide range of Python libraries and technologies, including:
 
 * `Pandas`
 * `NumPy`
@@ -37,16 +38,18 @@ Para el desarrollo de estos proyectos se emplean diversas librerías y herramien
 * `Matplotlib`
 * `SciPy`
 * `Scikit-learn`
-* entre otras
+* and others
 
-### 🎯 Valor del portafolio
+### 🎯 Portfolio Value
 
-En conjunto, este portafolio refleja no solo **habilidades técnicas**, sino también la capacidad de:
+Taken together, this portfolio demonstrates not only **technical proficiency**, but also the ability to:
 
-> 💡 *Traducir datos en insights estratégicos que pueden contribuir a la toma de decisiones en contextos reales.*
+> 💡 *Transform data into strategic insights that support decision-making in real-world contexts.*
 
-### 🫱🏻‍🫲🏼 Contacto
+### 🫱🏻‍🫲🏼 Contact
 
-📧 gerardo.hernandez12161999@gmail.com
+📧 [gerardo.hernandez12161999@gmail.com](mailto:gerardo.hernandez12161999@gmail.com)
+
 📲 (+52) 55 6120 2298
-🔗 www.linkedin.com/in/gerardo-hernandez-gomez-data-science 
+
+🔗 [www.linkedin.com/in/gerardo-hernandez-gomez-data-science](http://www.linkedin.com/in/gerardo-hernandez-gomez-data-science)
