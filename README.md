@@ -1,4 +1,4 @@
-## 📊 Data Science Project Portfolio
+## 📊 Data Science Projects Portfolio
 
 ### 👨🏻‍💻 About Me
 
